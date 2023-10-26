@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using NaughtyAttributes;
+//using NaughtyAttributes;
 using System;
 
 public class Golfball : MonoBehaviour
@@ -30,7 +30,7 @@ public class Golfball : MonoBehaviour
         }
     }
 
-    [Button]
+  //  [Button]
     private void ResetPosition()
     {
         GetComponent<Rigidbody>().velocity = Vector3.zero;
@@ -39,7 +39,7 @@ public class Golfball : MonoBehaviour
         transform.position = startPosition;
     }
 
-    [Button]
+  //  [Button]
     private void AddForce()
     {
         _rigidbody.AddRelativeForce(Vector3.forward * forceAmount);
