@@ -38736,7 +38736,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 1
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &921666969
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -71922,7 +71922,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!82 &1543009848
 AudioSource:
   m_ObjectHideFlags: 0
@@ -79256,7 +79256,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 1
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!199 &1736282457
 ParticleSystemRenderer:
   serializedVersion: 6
@@ -89157,7 +89157,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 1
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!199 &1898234512
 ParticleSystemRenderer:
   serializedVersion: 6
@@ -102199,7 +102199,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 1
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2095590586
 Transform:
   m_ObjectHideFlags: 0
